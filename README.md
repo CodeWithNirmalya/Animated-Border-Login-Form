@@ -22,9 +22,11 @@ A sleek and modern login form with animated borders built using **pure HTML and 
 
 ---
 ## 📁 Folder StructureAnimated-Border-Login-Form/
+```
 ├── index.html
 ├── style.css
 └── README.md
+```
 ## 🚀 How to Use
 
  **Clone this repo**
